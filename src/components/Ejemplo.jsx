@@ -26,7 +26,7 @@ const Ejemplo = () => {
 		API = `https://rickandmortyapi.com/api/character/?page=1`;
 		console.log(API);
 	};
-
+	console.log(API);
 	return (
 		<div className="Container">
 			<h4>Ingrese el nombre del personaje</h4>
